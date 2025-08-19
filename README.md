@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on different projects<br>🌱 I’m currently learning on K8s
+🔭 I’m currently working on different projects<br>
+🌱
 
 ## 🌐 Socials:
 I'mma put the links later
