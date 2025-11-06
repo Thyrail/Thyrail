@@ -1,4 +1,4 @@
-## ✨ Thyrail — Full-Stack Developer & DevOps Engineer
+## ✨ Thyrail - Full-Stack Developer & DevOps Engineer
 
 🔭 Currently working on **AISA-Studios**, **AI-Agents** and several full-stack & infrastructure projects.  
 ⚙️ Passionate about **automation**, **self-hosting**, and **cloud-native architectures**.  
