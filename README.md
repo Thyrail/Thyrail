@@ -1,6 +1,6 @@
-## 👋 Marcel Dieck — Full-Stack Engineer & DevOps Specialist
+## 👋 Marcel Dieck | Full-Stack Engineer & DevOps Specialist
 
-> "Automate everything — control the chaos."
+> "Automate everything - control the chaos."
 
 🚀 Full-Stack Engineer mit Fokus auf **TypeScript**, **NestJS**, **Next.js** und **KI-Automatisierung**  
 ⚙️ Leidenschaft für **Automation**, **Self-Hosting** und **Cloud-native Architekturen**  
@@ -64,10 +64,10 @@
 
 ## 🚀 Featured Projects
 
-- 🧠 **Living Brain** — Vektorbasierte AI-Wissensdatenbank (Supabase · Voyage AI · NestJS)
-- 📱 **Social Media Automation** — KI-gestützte Pipeline für Instagram, TikTok, Telegram (n8n · Blotato)
-- 🌐 **AISA-Studios** — Portfolio & IT-Services Website
-- 🏡 **Smart Home Stack** — Home Assistant · Zigbee2MQTT · UniFi · Proxmox Homelab
+- 🧠 **Living Brain** | Vektorbasierte AI-Wissensdatenbank (Supabase · Voyage AI · NestJS)
+- 📱 **Social Media Automation** | KI-gestützte Pipeline für Instagram, TikTok, Telegram (n8n · Blotato)
+- 🌐 **AISA-Studios** | Portfolio & IT-Services Website
+- 🏡 **Smart Home Stack** | Home Assistant · Zigbee2MQTT · UniFi · Proxmox Homelab
 
 ---
 
